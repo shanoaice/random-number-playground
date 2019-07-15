@@ -1,7 +1,7 @@
 <script>
   let maxValue = 1;
   let minValue = 0;
-  import RandomNum from "./RandomNum";
+  import RandomNum from "./RandomNum.svelte";
 </script>
 
 <style>
